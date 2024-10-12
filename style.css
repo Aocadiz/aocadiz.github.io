@@ -39,7 +39,7 @@ img {
 }
 
 .project-gallery img:hover {
-    transform: scale(1.05); /* Slight zoom on hover */
+    transform: scale(1.5); /* Slight zoom on hover */
 }
 
 body{
